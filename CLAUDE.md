@@ -33,17 +33,17 @@ Do NOT introduce:
 ## Architecture
 
 ```text
-app/                         # Routes, layouts, metadata and global CSS
+app/
 components/
-  layout/                    # Shared page shells and navigation
-  ui/                        # Reusable generic UI and Ant Design wrappers
+  layout/
+  ui/
 features/
   meal-picker/
-    components/              # Wheel, meal input and result UI
-    hooks/                   # Meal-picker state and interactions
-    lib/                     # Feature-only selection logic
-    types.ts                 # Feature-only types
-lib/                         # Utilities shared by multiple features
+    components/
+    hooks/
+    lib/
+    types.ts
+lib/
 public/
   icons/
   images/
