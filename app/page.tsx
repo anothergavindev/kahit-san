@@ -1,5 +1,6 @@
 import Nav from "@/components/ui/Nav/Nav";
 import HeaderText from "@/components/ui/HeaderText/HeaderText";
+import MealPicker from "@/features/meal-picker/components/MealPicker";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
           header="What are we eating today?"
           subHeader="Let the wheel decide."
         />
+        <MealPicker showSpinButton={false} />
       </div>
     </>
   );
