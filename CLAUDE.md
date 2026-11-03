@@ -1,12 +1,10 @@
 ## Project Overview
 
-This is fun web app that I personally thought, it's a spin the wheel concept but for a group of people that cannot decide what to eat. Primary users are non-technical so they will clarity, guidance and not complexity.
+This is fun web app that I personally thought, it's a spin the wheel concept but for a group of people that cannot decide what to eat. Primary users are non-technical so they will have clarity, guidance and not complexity.
 
 The purpose of the app is to make having breakfast, lunch and dinner fun without having to take time and guess where the gang will eat.
 
 Avoid over-engineer. Prefer readability over cleverness. When in doubt make it simpler
-
-@AGENTS.md
 
 ## Commands
 
